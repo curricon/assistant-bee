@@ -1,6 +1,6 @@
 {
-    "name": "BeeGuard",
-    "description": "A discord bot to regulate BrightID links on public channels.",
+    "name": "Lost Bee",
+    "description": "A discord bot to spread info about the 1hive.",
     "repository": "https://github.com/crisog/bee-guard",
     "logo": "https://www.wholekidsfoundation.org/assets/images/Worker-Bee-Roles_Guard.png",
     "keywords": ["node", "discord", "1Hive"],
